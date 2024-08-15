@@ -12,7 +12,7 @@ namespace Atividade.Classes
 
         public override void ExibirDetalhes()
         {
-            Console.WriteLine($"Viagem Nacional: Destino: {Destino}, Estado: {Estado}, Preco: {Preco:C}");
+            Console.WriteLine($"Viagem Nacional: Destino: {Destino}, Estado: {Estado}, Preco: {Preco}");
         }
     }
 }
