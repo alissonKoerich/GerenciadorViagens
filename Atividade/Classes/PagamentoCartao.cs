@@ -12,7 +12,7 @@ namespace Atividade.Classes
 
         public override void ExibirDetalhes()
         {
-            Console.WriteLine($"Pagamento com Cartao: Valor: {Valor:C}, Numero do Cartao: {NumeroCartao}");
+            Console.WriteLine($"Pagamento com Cartao: Valor: {Valor}, Numero do Cartao: {NumeroCartao}");
         }
     }
 
