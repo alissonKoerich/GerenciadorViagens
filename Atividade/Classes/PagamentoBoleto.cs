@@ -12,7 +12,7 @@ namespace Atividade.Classes
 
         public override void ExibirDetalhes()
         {
-            Console.WriteLine($"Pagamento com Boleto: Valor: {Valor:C}, Numero do Boleto: {NumeroBoleto}");
+            Console.WriteLine($"Pagamento com Boleto: Valor: {Valor}, Numero do Boleto: {NumeroBoleto}");
         }
     }
 }
